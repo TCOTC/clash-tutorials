@@ -1,3 +1,8 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
 # 关于本教程集合
 1. 本教程合集基于 [mihomo 内核](https://github.com/MetaCubeX/mihomo)和 [sing-box PuerNya 版内核](https://github.com/DustinWin/clash_singbox-tools/tree/sing-box)编写，请尽量使用最新版内核，可到 [DustinWin/clash_singbox-tools](https://github.com/DustinWin/clash_singbox-tools) 项目更新
 2. 本教程合集分为五大类，分别为：置顶、直链配置、工具配置、DNS 配置和分享配置。伸手党可直接进入分享配置进行参考，尽量使用我定制的[规则集文件](https://github.com/DustinWin/ruleset_geodata)
