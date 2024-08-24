@@ -450,8 +450,7 @@ tags: [sing-box, sing-boxp, 直链, 订阅, ruleset, rule_set, 基础]
     // 规则
     "rules": [
       // 自定义规则优先放前面
-      { "rule_set": [ "netflix" ], "outbound": "🎥 奈飞视频" },
-      { "rule_set": [ "netflixip" ], "outbound": "🎥 奈飞视频", "skip_resolve": true },
+      { "rule_set": [ "netflix", "netflixip" ], "outbound": "🎥 奈飞视频", "skip_resolve": true },
       { "rule_set": [ "bilibili" ], "outbound": "📺 哔哩哔哩" }
     ],
     // 规则集（binary 文件每天自动更新）
